@@ -1,7 +1,4 @@
 #! /bin/bash
-dummy=/home/jsvd/foo/dummy/
-empty=/home/jsvd/foo/empty/
-texto1="Que me gusta bash!!!!"
 
 mkdir foo
 cd foo
