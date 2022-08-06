@@ -1,8 +1,8 @@
 #!/bin/bash
-dummy=/foo/dummy/
-empty=/foo/empty/
+dummy=/home/jsvd/foo/dummy/
+empty=/home/jsvd/foo/empty/
 
 cd $dummy
 
 mv file2.txt $empty
-echo $dummy/file1.txt > file2.txt
+echo $dummy/file1.txt > $empty/file2.txt
