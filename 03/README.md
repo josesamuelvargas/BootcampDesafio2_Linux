@@ -23,8 +23,8 @@ Comando usado: <pre>`cd ..`</pre>
 ***Realizado OK*** 
 Comando usado: <pre>`ln -s nueva_carpeta/archivo_viejo.txt enlace.ln`</pre>
 al buscarlo con el comando <pre>`ls -l`</pre> aparece *enlace.ln -> nueva_carpeta/archivo_viejo.txt*
-![Imagen 1: Enlace creado]()
-
+![Imagen 1: Enlace creado](https://github.com/josesamuelvargas/BootcampDesafio2_Linux/blob/config/retoLinux/03/Enlace1.png)
 - Elimina el directorio "nueva_carpeta" y los archivos que contenga.
 ***Realizado OK***
 Aparece en terminal de la siguiente forma: *enlace.ln -> nueva_carpeta/archivo_viejo.txt*
+![Imagen 2: Enlace perdido](https://github.com/josesamuelvargas/BootcampDesafio2_Linux/blob/config/retoLinux/03/Enlace2.png)
