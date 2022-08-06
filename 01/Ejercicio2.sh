@@ -1,6 +1,6 @@
 #!/bin/bash
-dummy=/foo/dummy/
-empty=/foo/empty/
+dummy=/home/jsvd/foo/dummy/
+empty=/home/jsvd/foo/empty/
 
 cd $dummy
 
