@@ -5,4 +5,4 @@ empty=/home/jsvd/foo/empty/
 cd $dummy
 
 mv file2.txt $empty
-echo $dummy/file1.txt > $empty/file2.txt
+cat $dummy/file1.txt > $empty/file2.txt
